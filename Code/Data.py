@@ -14,17 +14,17 @@ laps = laps.drop(columns = ['Unnamed: 0', 'Length[a]', 'Notes'], errors = 'ignor
 ## Renaming the columns for better readability
 cars = cars.rename(columns = {'Horsepower': 'HP',
                             '0-60 MPH Time (seconds)': '0-100',
-                            'Price (in USD)': 'Price_eur',
-                            'Torque (lb-ft)': 'Torque_nm'})
+                            'Price (in USD)': 'Price (EUR)',
+                            'Torque (lb-ft)': 'Torque (Nm)'})
 
 
 ## Removing the commas from the 'Price (EUR)' column and converting it to float
-cars['Price_eur'] = (
-    cars['Price_eur'].str.replace(',', '', regex = False).astype(float)
+cars['Price (EUR)'] = (
+    cars['Price (EUR)'].str.replace(',', '', regex = False).astype(float)
 )
 
 ## Removing the commas from the 'Torque (Nm)' column and converting it to float
-cars['Torque_nm'] = pd.to_numeric(cars['Torque_nm'], errors = 'coerce'
+cars['Torque (Nm)'] = pd.to_numeric(cars['Torque (Nm)'], errors = 'coerce'
 )
 
 ## Converting "HP", "0-100", "Engine Size (L)" columns to numeric, coercing errors to NaN
@@ -33,9 +33,9 @@ cars['0-100'] = pd.to_numeric(cars['0-100'], errors = 'coerce')
 cars['Engine Size (L)'] = pd.to_numeric(cars['Engine Size (L)'], errors = 'coerce')
 
 ## Converting lb-ft to Nm and USD to EUR
-cars['Torque_nm'] = cars['Torque_nm'] * 1.35582
+cars['Torque (Nm)'] = cars['Torque (Nm)'] * 1.35582
 
-cars['Price_eur'] = cars['Price_eur'] * 0.85
+cars['Price (EUR)'] = cars['Price (EUR)'] * 0.85
 
 
 ## Creating a new column 'Vehicle' by combining the 'Car Make' and 'Car Model' columns
@@ -97,3 +97,4 @@ nls = nls.drop(columns=[
     "Vehicle_clean_y",
     "Vehicle_match"
 ])
+print(nls.columns)
