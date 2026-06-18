@@ -23,14 +23,12 @@ cars['Price (EUR)'] = (
     cars['Price (EUR)'].str.replace(',', '', regex = False).astype(float)
 )
 
-## Removing the commas from the 'Torque (Nm)' column and converting it to float
-cars['Torque (Nm)'] = pd.to_numeric(cars['Torque (Nm)'], errors = 'coerce'
-)
+## Using a loop to convert important columns to numeric, coercing errors to NaN
+numeric_columns = ['HP', '0-100', 'Engine Size (L)', 'Torque (Nm)']
 
-## Converting "HP", "0-100", "Engine Size (L)" columns to numeric, coercing errors to NaN
-cars['HP'] = pd.to_numeric(cars['HP'], errors = 'coerce')
-cars['0-100'] = pd.to_numeric(cars['0-100'], errors = 'coerce')
-cars['Engine Size (L)'] = pd.to_numeric(cars['Engine Size (L)'], errors = 'coerce')
+for col in numeric_columns:
+    cars[col] = pd.to_numeric(cars[col], errors = 'coerce')
+
 
 ## Converting lb-ft to Nm and USD to EUR
 cars['Torque (Nm)'] = cars['Torque (Nm)'] * 1.35582
@@ -41,7 +39,7 @@ cars['Price (EUR)'] = cars['Price (EUR)'] * 0.85
 ## Creating a new column 'Vehicle' by combining the 'Car Make' and 'Car Model' columns
 cars['Vehicle'] = cars['Car Make'] + ' ' + cars['Car Model']
 
-## Deleting the 'Car Make' and 'Car Model' columns
+## Deleting the, now unnecessary, 'Car Make' and 'Car Model' columns
 cars = cars.drop(columns = ['Car Make', 'Car Model'])
 
 ## Cleaning the 'Vehicle' column in both dataframes for better merging
@@ -56,15 +54,16 @@ def clean_vehicle_name(x):
     return x
 
 ## Applying the cleaning function to the 'Vehicle' column in both dataframes
+## This will create a new column 'Vehicle_clean' in both dataframes with the cleaned vehicle names
 laps["Vehicle_clean"] = laps["Vehicle"].apply(clean_vehicle_name)
 cars["Vehicle_clean"] = cars["Vehicle"].apply(clean_vehicle_name)
 
-## Removing duplicates from both dataframes based on the 'Vehicle_clean' column
+## Removing duplicates from both dataframes based on the new 'Vehicle_clean' column
 cars = cars.drop_duplicates(subset = "Vehicle_clean", keep= "first")
 
-
-car_names = cars["Vehicle_clean"].unique()
 ## Function to perform fuzzy matching and return the best match if the score is above a certain threshold
+car_names = cars["Vehicle_clean"].unique()
+
 def fuzzy_match(name):
     result = process.extractOne(
         name,
@@ -91,10 +90,10 @@ nls = laps.merge(
 nls = nls.rename(columns={"Vehicle_x": "Vehicle"})
 
 ## Deleting the unnecessary columns
-nls = nls.drop(columns=[
+nls = nls.drop(columns = [
     "Vehicle_y",
     "Vehicle_clean_x",
     "Vehicle_clean_y",
     "Vehicle_match"
 ])
-print(nls.columns)
+
