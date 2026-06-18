@@ -97,3 +97,8 @@ nls = nls.drop(columns = [
     "Vehicle_match"
 ])
 
+## Rounding the 'Torque (Nm)' and 'HP' columns to 0 decimal places for better readability
+nls[['Torque (Nm)', 'HP']] = nls[['Torque (Nm)', 'HP']].round(0)
+
+## Saving the cleaned and merged dataframe to a new CSV file in the 'data' folder
+nls.to_csv("Data/nls.csv", index = False)
