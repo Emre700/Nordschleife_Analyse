@@ -26,12 +26,17 @@ At the end we have a merged dataset 'nls' which contains these columns:
 | 0-100    | 0-100 km/h time |
 | Price (EUR) | Price in Eur |
 
+### Final dataset:
+- 208 vehicles
+- 9 variables
+- Target variable: Lap Time
+
 ## The following preprocessing steps were performed:
-- Cleaned vehicle names
-- Converted units
-- Merged datasets
-- Removed duplicates
-- Handled missing values
+- Standardized vehicle names for matching
+- Converted torque, acceleration and price units
+- Merged lap-time and vehicle-specification datasets
+- Removed duplicate entries
+- Filtered missing observations
 
 ## Used tools and packagges
 
@@ -43,13 +48,21 @@ At the end we have a merged dataset 'nls' which contains these columns:
 - Scikit-Learn
 
 ## Repository Structure
-Code/
-Data/
-Notebook/
+``` text
+Nordschleife_Analyse/
+├──Code/                                # Data Preperation
+│    └──Data.py                         
+├──Data/                                # Datasets
+│   └──laps.csv
+│   └──nls.csv
+│   └──Sport car price (1).csv
+├──Notebook/                            # Exploratory Analysis and ML models
+│   └──Nordschleife Analysis.ipynb
+└──README.md
 
 ## Notebook
 
-A polished analysis notebook is available on Kaggle:
+A polished analysis notebook is (soon) available on Kaggle:
 [View Kaggle Notebook](...)
 
 
