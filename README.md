@@ -14,7 +14,17 @@ The final dataset used in this analysis was generated using the data preparation
 
 At the end we have a merged dataset 'nls' which contains these columns:
 
-|Time | Lap Time
+| Variable | Description |
+| ---------|-------------|
+| Time     | Lap Time    |
+| Vehicle  | Vehicle Name | 
+| Driver   | Driver Name |
+| Year     | Production Year |
+| Engine Size (L) | Engine Size in Liters |
+| HP       | Horsepower |
+| Torque (Nm) | Torque in Nm |
+| 0-100    | 0-100 km/h time |
+| Price (EUR) | Price in Eur |
 
 ## The following preprocessing steps were performed:
 - Cleaned vehicle names
