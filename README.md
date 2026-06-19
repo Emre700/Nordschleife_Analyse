@@ -1,8 +1,5 @@
 # Nordschleife-Analysis
 ## Introduction
-The Nürburgring Nordschleife is regarded as the benchmark for vehicle performance.
-With its unique combination of high-speed straights, technical corners, elevation changes, and demanding track conditions,
-it provides one of the most comprehensive tests for both drivers and cars.
 
 This project focuses on the analysis of the Nürburgring Nordschleife lap times.
 The objective is to build a machine learning model that predicts Nordschleife lap times from vehicle specifications.
