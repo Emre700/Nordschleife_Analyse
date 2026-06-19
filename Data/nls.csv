@@ -1,209 +1,209 @@
 Time,Vehicle,Driver,Date,Year,Engine Size (L),HP,Torque (Nm),0-100,Price (EUR)
-6:48.047,Mercedes-AMG GT Black Series,Maro Engel,2020-11-04,2021,4.0,720.0,800.0,3.1,276250.0
-6:49.275,Chevrolet Corvette ZR1X,Drew Cattell,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
-6:49.42,Lamborghini Aventador SVJ LP770-4 (2018),Marco Mapelli,2018-07-26,2021,6.5,759.0,720.0,2.8,440104.5
-6:50.763,Chevrolet Corvette ZR1,Brian Wallace,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
-6:52.072,Ford Mustang GTD,Dirk Müller,2025-05-01,2022,5.0,460.0,569.0,4.3,33150.0
-6:52.54,Mercedes-AMG GT Black Series,Christian Gebhardt,2021-07-07,2021,4.0,720.0,800.0,3.1,276250.0
-6:57.685,Ford Mustang GTD,Dirk Müller,2024-08-07,2022,5.0,460.0,569.0,4.3,33150.0
-6:57,Porsche 918 Spyder,Marc Lieb,2013-09-04,2015,4.6,887.0,1280.0,2.2,1530000.0
-6:58.70,Ferrari 296 GTB,Christian Gebhardt,2023-06-07,2022,3.9,661.0,761.0,3.0,283687.5
-6:59.927,"Porsche 911 GT3 (992.1, 2022)",Lars Kern,2020-09-15,2022,3.0,379.0,449.0,4.0,86020.0
-7:00.03,Ferrari 488 Pista,Christian Gebhardt,2019-05-16,2022,3.9,661.0,761.0,3.0,283687.5
-7:01.3,Dodge Viper ACR (2017),Lance David Arnold,2017-09-01,2017,8.4,645.0,813.0,3.3,107261.5
-7:03.92,Porsche 911 Turbo S (992.2),Jörg Bergmeister,2024-09-11,2022,3.8,640.0,800.0,2.6,176800.0
-7:04.74,"Porsche 911 GT3 (992.1, pre-facelift, 2021, N/A 4.0, 510 PS)",Christian Gebhardt,2021-05-05,2022,3.0,379.0,449.0,4.0,86020.0
-7:05.298,Rimac Nevera,Martin Kodrić,2023-08-18,2022,,1914.0,2299.0,1.85,2040000.0
-7:07.55,Porsche Taycan Turbo GT,Lars Kern,2024-01-02,2021,,750.0,1049.0,2.6,157250.0
-7:08.34,McLaren 720S,Christian Gebhardt,2018-06-28,2021,4.0,710.0,770.0,2.7,253300.0
-7:08.82,McLaren 600LT,Christian Gebhardt,2019-06-06,2021,3.8,592.0,620.0,2.8,204850.0
-7:09.300,Porsche Cayman GT4 RS (982),Jörg Bergmeister,2021-09-17,2022,4.0,414.0,419.0,3.8,85170.0
-7:10.92,Mercedes-AMG GT R (2017),Christian Gebhardt,2016-11-04,2021,4.0,577.0,700.0,3.5,155550.0
-7:11.826,Chevrolet Corvette Z06 (2025),Aaron Link,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
-7:12.13,Dodge Viper ACR (2010),Dominik Farnbacher,2011-09-14,2017,8.4,645.0,813.0,3.3,107261.5
-7:12.7,Porsche 911 GT3 (991.2),Lars Kern,2017-05-04,2022,3.0,379.0,449.0,4.0,86020.0
-7:13,Porsche 918 Spyder,Horst von Saurma,2014-06,2015,4.6,887.0,1280.0,2.2,1530000.0
-7:13.497,"BMW M4 CSL (G82, 2023, 3.0 TT, 550 PS)",Jörg Weidinger [de],2023-09-01,2022,3.0,444.0,550.0,3.8,71905.75
-7:13.90,Chevrolet Corvette Z06 (C7),Christian Gebhardt,2017-04-24,2023,5.5,625.0,881.0,2.6,72250.0
-7:15.677,"BMW M4 CSL (G82, 2022)",Jörg Weidinger [de],2022-04-12,2022,3.0,444.0,550.0,3.8,71905.75
-7:16.04,Chevrolet Camaro ZL1 1LE (2018),Bill Wise,2017,2021,6.2,650.0,881.0,3.5,54990.75
-7:16.15,"Porsche Cayman GT4 RS (718, 2022, N/A 4.0, 500 PS)",Christian Gebhardt,2022-05-09,2022,4.0,414.0,419.0,3.8,85170.0
-7:17.08,"BMW M4 CSL (G82, 2022)",Christian Gebhardt,2022-10-12,2022,3.0,444.0,550.0,3.8,71905.75
-7:17.11,"Porsche 911 Turbo S (991.2, facelift, 2018, 3.8 TT, 580 PS)",Christian Gebhardt,2017-08-24,2022,3.8,640.0,800.0,2.6,176800.0
-7:17.215,"BMW M4 CS (G82, 2024, 3.0 TT, 550 PS)",Jörg Weidinger [de],2024-05-08,2022,3.0,444.0,550.0,3.8,71905.75
-7:17.3,"Porsche 911 Turbo S (992.1, pre-facelift, 2021, 3.7 TT, 650 PS)",Christian Gebhardt,2021-01-30,2022,3.8,640.0,800.0,2.6,176800.0
-7:18,"Porsche 911 GT3 (991.2, facelift, 2017, N/A 4.0, 500 PS)",Christian Gebhardt,2017-04-28,2022,3.0,379.0,449.0,4.0,86020.0
-7:19.63,Chevrolet Corvette C6 ZR1 (2012),Jim Mero,2011-06-09,2023,5.5,625.0,881.0,2.6,72250.0
-7:20.890,BMW M2 CS,Jörg Weidinger [de],2025-04-11,2022,3.0,444.0,550.0,3.8,71905.75
-7:21,Ferrari 488 GTB,Horst von Saurma,2016-08,2022,3.9,661.0,761.0,3.0,283687.5
-7:21.63,Ferrari 488 GTB,Christian Gebhardt,2016-11,2022,3.9,661.0,761.0,3.0,283687.5
-7:22.1,Dodge Viper ACR (2009),Tom Coronel,2008-08-18,2017,8.4,645.0,813.0,3.3,107261.5
-7:22.68,Chevrolet Corvette C6 Z06 (2012),Jim Mero,2011-06-23,2023,5.5,625.0,881.0,2.6,72250.0
-7:23.009,"Mercedes-AMG GT 63 S 4MATIC+ (X290, 2021)",Demian Schaffert,2020-11-10,2021,4.0,630.0,900.0,3.1,137700.0
-7:23.975,"BMW M3 CS (G80, 2023, 3.0 TT, 550 PS)",Jörg Weidinger [de],2023-08-31,2022,3.0,444.0,550.0,3.8,71905.75
-7:24.172,"Porsche Panamera Turbo S E-Hybrid (976, 2024)",Lars Kern,2024-07-12,2021,4.0,690.0,870.0,3.2,161500.0
-7:24.29,Maserati MC12,Marc Basseng,2008-08,2021,3.0,621.0,729.0,2.9,178500.0
-7:25,Lamborghini Aventador LP700-4,Horst von Saurma,2012,2021,6.5,729.0,690.0,2.9,355002.5
-7:25.41,"Mercedes-AMG GT 63 S 4MATIC+ (X290, 2018)",Demian Schaffert,2018-10-15,2021,4.0,630.0,900.0,3.1,137700.0
-7:25.67,Mercedes-Benz SLS AMG Black Series,Markus Hofbauer,2013-08,2014,6.2,622.0,635.0,3.5,233750.0
-7:26.4,Chevrolet Corvette C6 ZR1 (2009),Jim Mero,2008-06-27,2023,5.5,625.0,881.0,2.6,72250.0
-7:27.48,Ferrari 812 Superfast,Christian Gebhardt,2018-06-20,2021,6.5,789.0,719.0,2.9,309170.5
-7:28.57,"BMW M4 Competition xDrive (G82, 2022, 3.0 TT, 510 PS)",Christian Gebhardt,2021-09-22,2021,3.0,503.0,649.0,3.9,64340.75
-7:29.57,"BMW M5 CS (F90, 2021)",Christian Gebhardt,2021-06-02,2022,3.0,444.0,550.0,3.8,71905.75
-7:29.60,Chevrolet Camaro ZL1 (2017),Drew Cattell,2016-10-24,2021,6.2,650.0,881.0,3.5,54990.75
-7:29.81,"Porsche Panamera Turbo S (971.2, 2020)",Lars Kern,2020-07-24,2022,4.0,620.0,819.0,2.9,159545.0
-7:29.90,Chevrolet Corvette (C8) (2020),Oliver Gavin,2019-07,2021,6.2,490.0,630.0,2.8,50915.0
-7:30.0,Mercedes-Benz SLS AMG GT (2012),,2012,2015,6.2,622.0,635.0,3.2,188700.0
-7:30.79,"BMW M4 Competition (G82, 2021, 3.0 TT, 510 PS)",Christian Gebhardt,2021-04-15,2021,3.0,503.0,649.0,3.9,64340.75
-7:31,"Porsche 911 GT2 (997, 2007)",Walter Röhrl,2007,2022,3.0,379.0,449.0,4.0,86020.0
-7:32,"Porsche 911 GT3 (991.1, pre-facelift, 2013, N/A 3.8, 475 PS)",Horst von Saurma,2013-11,2022,3.0,379.0,449.0,4.0,86020.0
-7:32,Alfa Romeo Giulia Quadrifoglio (2015),Fabio Francia,2016-09,2022,2.9,505.0,601.0,3.8,66300.0
-7:32,"Porsche Cayman GT4 (718, 2020, N/A 4.0, 420 PS)",Christian Gebhardt,2020,2022,4.0,414.0,419.0,3.8,85170.0
-7:32.79,"BMW M8 Coupe Competition (F92, 2020, 625 PS)",Christian Gebhardt,2020-06-09,2022,3.0,405.0,550.0,4.0,50910.75
-7:33,"Porsche 911 GT2 (997.1, pre-facelift, 2007, 3.6 TT, 530 PS)",Horst von Saurma,2007,2022,3.0,379.0,449.0,4.0,86020.0
-7:33.35,Porsche Taycan Turbo S (2023),Lars Kern,2022-04-11,2021,,750.0,1049.0,2.6,157250.0
-7:33.906,"BMW M2 (G87, 2023, 3.0 TT, 460 PS)",Jörg Weidinger [de],2023-08-30,2022,3.0,405.0,550.0,4.0,50065.0
-7:34,"Audi R8 GT (Mk1, Typ 42, 2010)",Horst von Saurma,2010-12,2022,5.2,562.0,550.0,3.2,121295.0
-7:34,"Porsche 911 Turbo S (991.1, pre-facelift, 2014, 3.8 TT, 560 PS)",Horst von Saurma,2014-02,2022,3.8,640.0,800.0,2.6,176800.0
-7:35,McLaren 650S Spider,Horst von Saurma,2015,2020,3.8,562.0,601.0,3.1,177480.0
-7:35,"Mercedes-AMG GT S (pre-facelift, 2015, 510 PS)",Horst von Saurma,2015,2021,4.0,630.0,900.0,3.1,137700.0
-7:35,Mercedes-Benz SLS AMG Black Series,Horst von Saurma,2013,2014,6.2,622.0,635.0,3.5,233750.0
-7:35.522,"Audi RS3 (Typ 8Y, 2021, 2.5 T, 400 PS)",Frank Stippler,2021-06-14,2022,2.5,394.0,500.0,3.9,48450.0
-7:35.579,Tesla Model S Plaid,Andreas Simonsen,2021-09-09,2021,,1020.0,1424.0,1.98,111511.5
-7:35.90,"BMW M5 Competition (F90, 2019, 625 PS)",Christian Gebhardt,2019-04-17,2022,4.4,617.0,750.0,3.1,87975.0
-7:36,"Mercedes-AMG GT S (pre-facelift, 2016, 510 PS)",Christian Gebhardt,2016,2021,4.0,630.0,900.0,3.1,137700.0
-7:37.4,Chevrolet Camaro Z/28 (2014),Adam Dean,2013-10,2021,6.2,650.0,881.0,3.5,54990.75
-7:37.66,"Audi RS3 (Typ 8Y, 2022, 2.5 T, 400 PS)",Christian Gebhardt,2022,2022,2.5,394.0,500.0,3.9,48450.0
-7:38,"Porsche 911 Turbo (997.1, pre-facelift, 2008, 3.6 TT, 480 PS)",,2008-09,2022,3.8,640.0,800.0,2.6,176800.0
-7:38,Chevrolet Corvette C6 ZR1,Horst von Saurma,2009-10,2023,5.5,625.0,881.0,2.6,72250.0
-7:38,"Porsche Panamera Turbo (971, 2017, 4.0 TT, 550 PS)",,2016,2022,4.0,620.0,819.0,3.1,148155.0
-7:38.92,BMW M5 (F90),Christian Gebhardt,2018-04-12,2022,4.4,600.0,750.0,3.2,87975.0
-7:40,Porsche 911 GT3 (997.2),Horst von Saurma,2009,2022,3.0,379.0,449.0,4.0,86020.0
-7:40,Mercedes-Benz SLS AMG,Horst von Saurma,2010,2015,6.2,622.0,635.0,3.2,188700.0
-7:40.89,"Audi R8 GT (Mk1, Typ 42, 2010)",Sascha Bert,2011-09,2022,5.2,562.0,550.0,3.2,121295.0
-7:41.23,"Porsche 911 Turbo S (997.2, facelift, 2010, 3.8 TT, 530 PS)",Sascha Bert,2010-11,2022,3.8,640.0,800.0,2.6,176800.0
-7:41.27,Chevrolet Camaro ZL1 (2012),Aaron Link,2011-10,2021,6.2,650.0,881.0,3.5,54990.75
-7:41.50,Chevrolet Corvette C6 ZR1,Sascha Bert,2009-08,2023,5.5,625.0,881.0,2.6,72250.0
-7:42,"BMW M4 CS (F82, 2017, 3.0 TT, 460 PS)",Christian Gebhardt,2017,2022,3.0,444.0,550.0,3.8,71905.75
-7:42,"Porsche 911 GT3 (997.1, pre-facelift, N/A 3.6, 415 PS)",Walter Röhrl,2006,2022,3.0,379.0,449.0,4.0,86020.0
-7:42.34,Porsche Taycan Turbo,Lars Kern,2019-08,2021,,750.0,1049.0,2.6,157250.0
-7:42.39,"Porsche Cayman GT4 (981, 2015, N/A 3.8, 385 PS)",Christian Gebhardt,2015-04,2022,4.0,414.0,419.0,3.8,85170.0
-7:42.659,"Alpine A110S (2022, 1.8 T, 300 PS)",Christian Gebhardt,2022-10,2021,1.8,288.0,320.0,4.4,60775.0
-7:42.99,"BMW M2 CS (F87, 2020)",Christian Gebhardt,2020-08-12,2022,3.0,444.0,550.0,3.8,71905.75
-7:43.92,Aston Martin V8 Vantage (2019),Christian Gebhardt,2019-08-14,2021,4.0,503.0,685.0,3.5,120785.0
-7:44,"Porsche 911 Turbo S (997.2, facelift, 2011, 3.8 TT, 530 PS)",Horst von Saurma,2011,2022,3.8,640.0,800.0,2.6,176800.0
-7:44.13,"Mercedes-AMG C63 S Coupe (W205, facelift, 2019, 4.0 BT, 510 PS)",Christian Gebhardt,2019,2021,4.0,503.0,700.0,3.7,66257.5
-7:44.42,Mercedes-Benz SLS AMG,Sascha Bert,2010-11,2015,6.2,622.0,635.0,3.2,188700.0
-7:45,Mercedes-Benz CLK63 AMG Black Series,Bernd Schneider,2007-05-01,2021,4.0,720.0,800.0,3.2,277142.5
-7:46,Mercedes-Benz C63 AMG Coupe Black Series,Horst von Saurma,2011,2021,4.0,720.0,800.0,3.2,277142.5
-7:46,"Porsche 911 GT2 (996.1, 2001, 462 PS)",Horst von Saurma,2001,2022,3.0,379.0,449.0,4.0,86020.0
-7:46.70,Porsche 718 Cayman S (982),Christian Gebhardt,2016-09,2022,2.0,300.0,380.0,4.5,51850.0
-7:47,"Porsche 911 Turbo (997.2, facelift, 2011, 3.8 TT, 500 PS)",Horst von Saurma,2011,2022,3.8,640.0,800.0,2.6,176800.0
-7:48,Porsche 911 GT3 (997.1),Horst von Saurma,2006,2022,3.0,379.0,449.0,4.0,86020.0
-7:48.40,"Audi TT RS (8S, 2017, 2.5 T, 400 PS)",Christian Gebhardt,2017-05-17,2021,2.5,394.0,480.0,3.6,57460.0
-7:49,"Chevrolet Corvette Z06 (C6, 2007, N/A 7.0, 512 PS)",Horst von Saurma,2007-06-22,2023,5.5,625.0,881.0,2.6,72250.0
-7:49.369,Mercedes-Benz GLC63s AMG 4MATIC+ (X253),Markus Hofbauer,2018-11-22,2021,4.0,503.0,700.0,3.8,57800.0
-7:50,"Aston Martin V8 Vantage GT8 (2017, N/A 4.7, 446 PS)",Christian Gebhardt,2017-02,2021,4.0,503.0,685.0,3.5,120785.0
-7:50,"BMW M3 CSL (E46, 2004)",Horst von Saurma,2003,2022,3.0,444.0,550.0,3.8,71905.75
-7:51,Mercedes-Benz SL65 AMG Black Series,Horst von Saurma,2009,2014,6.2,622.0,635.0,3.5,233750.0
-7:52,Aston Martin V12 Vantage S,Horst von Saurma,2014,2021,4.0,503.0,685.0,3.5,120785.0
-7:52,"BMW M4 (F82, 2014, 431 PS)",Horst von Saurma,2014,2022,3.0,503.0,649.0,3.8,61880.0
-7:52,"Ford GT (Mk1, 2006, 550 PS)",Horst von Saurma,2006,2022,3.5,660.0,746.0,3.0,425000.0
-7:52,"Porsche Boxster Spyder (981, 2015, N/A 3.8, 375 PS)",Christian Gebhardt,2015,2021,2.0,300.0,380.0,4.7,52700.0
-7:52,"Porsche Panamera Turbo S (970, pre-facelift, 2012, 4.8 TT, 550 PS)",Horst von Saurma,2012,2022,4.0,620.0,819.0,2.9,159545.0
-7:52.17,Toyota GR Supra (A90/J29),Christian Gebhardt,2019-08-22,2022,3.0,382.0,499.0,3.9,36626.5
-7:52.36,BMW M2 Competition (F87),Christian Gebhardt,2018-09-12,2022,3.0,405.0,550.0,4.0,50910.75
-7:54,"Mercedes-Benz CLK DTM AMG (W209, 2004, 582 PS)","Marcus Schurig (chief-editor of ""Sport Auto"" magazine)",2005-02,2021,4.0,523.0,670.0,3.8,100725.0
-7:54,Porsche 911 GT3 (996),Horst von Saurma,2003,2022,3.0,379.0,449.0,4.0,86020.0
-7:54,"Porsche 911 Turbo (997.1, pre-facelift, 2007, 3.6 TT, 480 PS)",Horst von Saurma,2007,2022,3.8,640.0,800.0,2.6,176800.0
-7:54,"BMW M5 Competition (F10, 2014, 575 PS)",Horst von Saurma,2014,2022,4.4,617.0,750.0,3.1,87975.0
-7:55,"Mercedes-Benz E63 AMG S 4MATIC (W212R, second facelift, 2013, B/T 5.5, 585 PS)",Horst von Saurma,2013-09,2022,4.0,503.0,700.0,3.9,65960.0
-7:55.409,BMW Z4 M40i (G29),Christian Gebhardt,2018-09-12,2022,3.0,382.0,500.0,3.9,54145.0
-7:56,Chevrolet Corvette Z06 (C5),Dave Hill,,2023,5.5,625.0,881.0,2.6,72250.0
-7:56,"Porsche 911 Turbo (996, 2000, 3.6 TT, 420 PS)",Horst von Saurma,2000,2022,3.8,640.0,800.0,2.6,176800.0
-7:56,"Porsche Panamera Turbo (970, pre-facelift, 2009, 4.8 TT, 500 PS)",Walter Röhrl,2009,2022,4.0,620.0,819.0,3.1,148155.0
-7:56.10,"Alpine A110 S (2020, 1.8 T, 292 PS)",Christian Gebhardt,2020,2021,1.8,288.0,320.0,4.4,60775.0
-7:56.50,"Mercedes-Benz CLK DTM AMG (W209, 2006, 582 PS)",Klaus Ludwig,2006-03,2021,4.0,523.0,670.0,3.8,100725.0
-7:58,BMW M2 (F87),Jörg Weidinger [de],2015-12,2022,3.0,405.0,550.0,4.0,50065.0
-7:58.29,"Ford Mustang Mach 1 (Mk6, 2021, N/A 5.0, 460 PS)",Christian Gebhardt,2021-11-03,2021,5.0,480.0,569.0,4.3,44977.75
-7:58.52,Audi RS4 Avant (B9),Christian Gebhardt,2018-07-12,2021,4.0,591.0,800.0,3.5,92650.0
-7:59,Audi RS5 Coupe (8T),Horst von Saurma,2012-06,2022,2.9,444.0,601.0,3.7,64982.5
-7:59,"Lotus Evora 400(2016, 3.5 S/C, 406 PS)",Christian Gebhardt,2016,2021,3.5,416.0,430.0,3.8,82407.5
-7:59,"Mercedes-Benz CLS63 AMG (W218, facelift, 2013)",Horst von Saurma,2013-07,2019,4.0,603.0,850.0,3.4,112200.0
-7:59.74,Porsche Cayenne Turbo S (958.2),,,2022,4.0,620.0,819.0,2.9,159545.0
-8:01,"BMW M2 (F87, 2016, 3.0 T, 370 PS)",Christian Gebhardt,2016,2022,3.0,405.0,550.0,4.0,50065.0
-8:02,Aston Martin DBS,Horst von Saurma,2009,2021,5.2,630.0,700.0,3.5,171270.75
-8:03,"Aston Martin V8 Vantage (Mk1, 2005, 385 PS)",Horst von Saurma,2005,2021,4.0,503.0,685.0,3.5,120785.0
-8:03,"Porsche 911 GT3 (996.1, pre-facelift, 1999, 360 PS)",Horst von Saurma,1999,2022,3.0,379.0,449.0,4.0,86020.0
-8:03.33,"Alpine A110 (2019, 1.8 T, 252 PS)",Christian Gebhardt,2019-05-15,2021,1.8,288.0,320.0,4.4,60775.0
-8:04,"Mercedes-Benz A45 AMG 4MATIC (W176, facelift)",Christian Gebhardt,2016-02,2021,2.0,382.0,480.0,4.0,42500.0
-8:04,"Porsche Boxster S (981.1, pre-facelift, 2012, N/A 3.4, 315 PS)",Horst von Saurma,2012,2021,2.0,300.0,380.0,4.7,52700.0
-8:04.40,Alfa Romeo 4C,Horst von Saurma,2013-09-12,2020,1.7,237.0,350.0,4.1,57077.5
-8:05,Audi RS6 Avant (C7),Horst von Saurma,2014,2021,4.0,591.0,800.0,3.5,92650.0
-8:05,BMW M3 (E92),Horst von Saurma,2007-12,2022,4.4,617.0,750.0,3.1,110500.0
-8:05,BMW M5 (F10),Horst von Saurma,2012,2022,4.4,600.0,750.0,3.2,87975.0
-8:05,Mercedes-Benz CLK63 Black Series,Horst von Saurma,2007,2021,4.0,720.0,800.0,3.2,277142.5
-8:05,"Porsche Cayman S (981.1, 2013, PDK, N/A 3.4, 325 PS)",Horst von Saurma,2013,2021,2.0,300.0,380.0,5.1,50065.0
-8:06,"Mercedes-Benz SL55 AMG (R230, 2003, 500 PS)",Horst von Saurma,2003,2015,6.2,622.0,635.0,3.2,188700.0
-8:06.01,Subaru WRX STi Spec-C (Prototype),Motoharu Kurosawa,2004,2021,2.5,310.0,393.0,4.6,32444.5
-8:07.76,"BMW M6 Coupe (E63, 2006, 507 PS)",Prinz Leopold von Bayern,2006-03,2021,3.0,473.0,550.0,3.8,61030.0
-8:08.73,Porsche 911 Turbo 3.3,Motoharu Kurosawa,1991,2022,3.8,640.0,800.0,2.6,176800.0
-8:09,Audi RS4 (B7),Horst von Saurma,2006,2022,4.0,591.0,800.0,3.5,99450.0
-8:09,"Audi TT RS (Mk2, 8J, 2010, 2.5 T, 340 PS)",Horst von Saurma,2010,2021,2.5,394.0,480.0,3.6,57460.0
-8:09,"BMW M6 Coupe (E63, 2005, 507 PS)",Horst von Saurma,2005,2021,3.0,473.0,550.0,3.8,61030.0
-8:10,Porsche Boxster S (987),,,2021,2.0,300.0,380.0,4.7,52700.0
-8:10,Porsche Cayman R (987.2),Horst von Saurma,2011,2021,2.0,300.0,380.0,5.1,50065.0
-8:10,"Mercedes-Benz A45 AMG 4MATIC (W176, pre-facelift)",Horst von Saurma,2014-03,2021,2.0,382.0,480.0,4.0,42500.0
-8:10,"Mercedes-Benz E63 AMG (W212, pre-facelift, 2010, N/A 6.2, 525 PS)",Horst von Saurma,2010,2021,4.0,503.0,700.0,3.8,57800.0
-8:12,"Mercedes-Benz SL55 AMG (R230, 2002, 476 PS)",Horst von Saurma,2002,2015,6.2,622.0,635.0,3.2,188700.0
-8:13,BMW M5 (E60),Horst von Saurma,2004,2022,4.4,600.0,750.0,3.2,87975.0
-8:13,Mercedes-Benz C63 AMG (W204),Horst von Saurma,2008,2021,4.0,503.0,700.0,3.8,57800.0
-8:14,"Mercedes-Benz SL65 AMG (R230, pre-facelift, 2005)",Horst von Saurma,2005,2015,6.2,622.0,635.0,3.2,188700.0
-8:14,Mercedes-Benz SLK55 AMG Black Series,Horst von Saurma,2007,2014,6.2,622.0,635.0,3.5,233750.0
-8:15,"Chevrolet Corvette (C6, 2005, N/A 6.0, 404 PS)",Horst von Saurma,2005,2021,6.2,490.0,630.0,2.8,50915.0
-8:16,"Aston Martin DB9 (2004, 456 PS)",Horst von Saurma,2004,2021,5.2,630.0,700.0,3.5,171270.75
-8:16,"Audi TT S Coupe (Mk3, FV/8S, 2015, 2.0 T, 310 PS)",Christian Gebhardt,2015,2021,2.5,394.0,480.0,3.6,57460.0
-8:16,"BMW M235i (F22, 2015, 3.0 T, 322 PS)",Christian Gebhardt,2015,2022,4.4,600.0,750.0,3.2,87975.0
-8:17,"Porsche Cayman S (987.2, facelift 2009)",Horst von Saurma,2009,2021,2.0,300.0,380.0,5.1,50065.0
-8:18,"BMW M135i (F20, 2012)",Horst von Saurma,2012,2022,4.4,600.0,750.0,3.2,87975.0
-8:18,"BMW Z8 (E52, 2000, 400 PS)",Horst von Saurma,2000,2022,4.4,617.0,750.0,3.1,110500.0
-8:18,"Ford Mustang GT (Mk6, S550, facelift, 2020, N/A 5.0, 450 PS)",Christian Gebhardt,2020,2022,5.0,460.0,569.0,4.3,33150.0
-8:18,"Porsche Boxster S (987.2, facelift 2009)",Horst von Saurma,2009,2021,2.0,300.0,380.0,4.7,52700.0
-8:20,"Audi RS3 Sportback (8P, 2011, 2.5 T, 340 PS)",Horst von Saurma,2011,2022,4.0,591.0,800.0,3.5,97788.25
-8:20,Audi RS6 (C5),Horst von Saurma,2002,2022,4.0,591.0,800.0,3.5,96050.0
-8:20,Chevrolet Camaro SS (2010),,2008,2021,6.2,455.0,617.0,4.1,36125.0
-8:22,BMW M3 (E46),Horst von Saurma,2000,2022,4.4,617.0,750.0,3.1,110500.0
-8:22,"BMW Z3 M Coupe (E36/8, 1998, 321 PS)",Horst von Saurma,1998,2021,3.0,473.0,550.0,3.8,61030.0
-8:22,Mercedes-Benz C55 AMG (W203),Horst von Saurma,2004,2021,4.0,503.0,700.0,3.8,57800.0
-8:23,Aston Martin DB7 GT,Horst von Saurma,2003,2021,5.2,630.0,700.0,3.5,171270.75
-8:23,"Porsche Boxster S (987.1, pre-facelift, 2006, 282 PS)",Horst von Saurma,2006,2021,2.0,300.0,380.0,4.7,52700.0
-8:24,Mercedes-Benz SLK55 AMG (R171),Horst von Saurma,2005,2015,6.2,622.0,635.0,3.2,188700.0
-8:25,Audi RS4 Avant (B5),Horst von Saurma,2000,2021,4.0,591.0,800.0,3.5,92650.0
-8:25,"Porsche Cayman S (987.1, pre-facelift, 2006, 295 PS)",Horst von Saurma,2006,2021,2.0,300.0,380.0,5.1,50065.0
-8:26,Audi S5,Horst von Saurma,2008,2022,3.0,349.0,500.0,4.4,44625.0
-8:26,Mercedes-Benz SLK32 AMG (R170),Horst von Saurma,2001,2015,6.2,622.0,635.0,3.2,188700.0
-8:26,Nissan 350Z,Horst von Saurma,2003,2021,3.7,332.0,366.0,5.0,25576.5
-8:28,BMW M5 (E39),Horst von Saurma,1999,2022,4.4,600.0,750.0,3.2,87975.0
-8:28,"Subaru WRX STi (Mk4, VA, facelift, 2015, 2.5 T, 300 PS)",Christian Gebhardt,2015,2021,2.5,310.0,393.0,4.6,32444.5
-8:29,Audi S4 Avant (B6),Horst von Saurma,2003,2021,4.0,591.0,800.0,3.5,92650.0
-8:29,"Audi TTS Coupé (8J, 2008, 272 PS)",Horst von Saurma,2008,2021,2.5,394.0,480.0,3.6,57460.0
-8:29,Mercedes-Benz CLK55 AMG (W208),Horst von Saurma,2000,2019,4.0,603.0,850.0,3.4,112200.0
-8:32,"Porsche Boxster S (986.1, pre-facelift, 1999, 252 PS)",Horst von Saurma,1999,2021,2.0,300.0,380.0,4.7,52700.0
-8:32,BMW Z3 M Roadster (E36/7),Horst von Saurma,1997,2022,2.0,255.0,400.0,5.2,42500.0
-8:36,"Porsche Boxster (986.2, facelift, 2003, 2.7, 228 PS)",Horst von Saurma,2003,2021,2.0,300.0,380.0,4.7,52700.0
-8:36.1,"Mercedes-Benz SL55 AMG (R230, second facelift, 2007, 517 PS)",Dierk Möller-Sonntag,2007,2015,6.2,622.0,635.0,3.2,188700.0
-8:37,Mercedes-Benz C32 AMG (W203),Horst von Saurma,2001,2021,4.0,503.0,700.0,3.8,57800.0
-8:38,"Mercedes-Benz SL500 (R230, pre-facelift, 2001, 306 PS)",Horst von Saurma,2001,2022,3.0,429.0,521.0,4.9,81812.5
-8:40,"Audi TT Coupe (Mk2, 8J, 2007 2.0 TFSI, 200 PS)",Horst von Saurma,2007,2021,2.5,394.0,480.0,3.6,57460.0
-8:40,Chevrolet Corvette C5,Horst von Saurma,1997,2021,6.2,490.0,630.0,2.8,50915.0
-8:40.30,"Bentley Continental GT (Mk1, 2006, 560 PS)",Tom Kristensen,2006-03,2021,6.0,626.0,900.0,3.6,191250.0
-8:41,Aston Martin DB7 Vantage,Horst von Saurma,1999,2021,4.0,503.0,685.0,3.5,120785.0
-8:41,"Audi S1 (8X, 2014, 231 PS)",Horst von Saurma,2014,2022,3.0,349.0,500.0,4.4,44625.0
-8:41,"Audi S3 (8L, 1999, 210 PS)",Horst von Saurma,1999,2022,2.5,394.0,500.0,3.9,48450.0
-8:42,"Audi S4 (B5, 1998, 265 PS)",Horst von Saurma,1998,2022,3.0,349.0,500.0,4.4,44625.0
-8:50,BMW M3 (E30),Horst von Saurma,2010,2022,4.4,617.0,750.0,3.1,110500.0
-8:50,Tesla Model S P85D,,2015,2021,,1020.0,1424.0,1.98,111511.5
-8:51,Mercedes-Benz C43 AMG (W202),Horst von Saurma,1998,2021,4.0,503.0,700.0,3.8,57800.0
-8:52,Mercedes-Benz CLK430 Coupe (W208),Horst von Saurma,1998,2021,3.0,385.0,521.0,4.5,50915.0
-8:54,"Porsche Boxster (986.1, pre-facelift, 1997, 2.5, 204 PS)",Horst von Saurma,1997,2021,2.0,300.0,380.0,4.7,52700.0
-11:25.50,Mercedes-Benz G55 AMG (W463),Wolfgang Kaufmann,2007-06-29,2021,4.0,523.0,670.0,3.8,100725.0
+6.8,Mercedes-AMG GT Black Series,Maro Engel,2020-11-04,2021,4.0,720.0,800.0,3.1,276250.0
+6.816666666666666,Chevrolet Corvette ZR1X,Drew Cattell,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
+6.816666666666666,Lamborghini Aventador SVJ LP770-4 (2018),Marco Mapelli,2018-07-26,2021,6.5,759.0,720.0,2.8,440104.5
+6.833333333333333,Chevrolet Corvette ZR1,Brian Wallace,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
+6.866666666666667,Ford Mustang GTD,Dirk Müller,2025-05-01,2022,5.0,460.0,569.0,4.3,33150.0
+6.866666666666667,Mercedes-AMG GT Black Series,Christian Gebhardt,2021-07-07,2021,4.0,720.0,800.0,3.1,276250.0
+6.95,Ford Mustang GTD,Dirk Müller,2024-08-07,2022,5.0,460.0,569.0,4.3,33150.0
+6.95,Porsche 918 Spyder,Marc Lieb,2013-09-04,2015,4.6,887.0,1280.0,2.2,1530000.0
+6.966666666666667,Ferrari 296 GTB,Christian Gebhardt,2023-06-07,2022,3.9,661.0,761.0,3.0,283687.5
+6.983333333333333,"Porsche 911 GT3 (992.1, 2022)",Lars Kern,2020-09-15,2022,3.0,379.0,449.0,4.0,86020.0
+7.0,Ferrari 488 Pista,Christian Gebhardt,2019-05-16,2022,3.9,661.0,761.0,3.0,283687.5
+7.016666666666667,Dodge Viper ACR (2017),Lance David Arnold,2017-09-01,2017,8.4,645.0,813.0,3.3,107261.5
+7.05,Porsche 911 Turbo S (992.2),Jörg Bergmeister,2024-09-11,2022,3.8,640.0,800.0,2.6,176800.0
+7.066666666666666,"Porsche 911 GT3 (992.1, pre-facelift, 2021, N/A 4.0, 510 PS)",Christian Gebhardt,2021-05-05,2022,3.0,379.0,449.0,4.0,86020.0
+7.083333333333333,Rimac Nevera,Martin Kodrić,2023-08-18,2022,,1914.0,2299.0,1.85,2040000.0
+7.116666666666666,Porsche Taycan Turbo GT,Lars Kern,2024-01-02,2021,,750.0,1049.0,2.6,157250.0
+7.133333333333334,McLaren 720S,Christian Gebhardt,2018-06-28,2021,4.0,710.0,770.0,2.7,253300.0
+7.133333333333334,McLaren 600LT,Christian Gebhardt,2019-06-06,2021,3.8,592.0,620.0,2.8,204850.0
+7.15,Porsche Cayman GT4 RS (982),Jörg Bergmeister,2021-09-17,2022,4.0,414.0,419.0,3.8,85170.0
+7.166666666666667,Mercedes-AMG GT R (2017),Christian Gebhardt,2016-11-04,2021,4.0,577.0,700.0,3.5,155550.0
+7.183333333333334,Chevrolet Corvette Z06 (2025),Aaron Link,2025-06,2023,5.5,625.0,881.0,2.6,72250.0
+7.2,Dodge Viper ACR (2010),Dominik Farnbacher,2011-09-14,2017,8.4,645.0,813.0,3.3,107261.5
+7.2,Porsche 911 GT3 (991.2),Lars Kern,2017-05-04,2022,3.0,379.0,449.0,4.0,86020.0
+7.216666666666667,Porsche 918 Spyder,Horst von Saurma,2014-06,2015,4.6,887.0,1280.0,2.2,1530000.0
+7.216666666666667,"BMW M4 CSL (G82, 2023, 3.0 TT, 550 PS)",Jörg Weidinger [de],2023-09-01,2022,3.0,444.0,550.0,3.8,71905.75
+7.216666666666667,Chevrolet Corvette Z06 (C7),Christian Gebhardt,2017-04-24,2023,5.5,625.0,881.0,2.6,72250.0
+7.25,"BMW M4 CSL (G82, 2022)",Jörg Weidinger [de],2022-04-12,2022,3.0,444.0,550.0,3.8,71905.75
+7.266666666666667,Chevrolet Camaro ZL1 1LE (2018),Bill Wise,2017,2021,6.2,650.0,881.0,3.5,54990.75
+7.266666666666667,"Porsche Cayman GT4 RS (718, 2022, N/A 4.0, 500 PS)",Christian Gebhardt,2022-05-09,2022,4.0,414.0,419.0,3.8,85170.0
+7.283333333333333,"BMW M4 CSL (G82, 2022)",Christian Gebhardt,2022-10-12,2022,3.0,444.0,550.0,3.8,71905.75
+7.283333333333333,"Porsche 911 Turbo S (991.2, facelift, 2018, 3.8 TT, 580 PS)",Christian Gebhardt,2017-08-24,2022,3.8,640.0,800.0,2.6,176800.0
+7.283333333333333,"BMW M4 CS (G82, 2024, 3.0 TT, 550 PS)",Jörg Weidinger [de],2024-05-08,2022,3.0,444.0,550.0,3.8,71905.75
+7.283333333333333,"Porsche 911 Turbo S (992.1, pre-facelift, 2021, 3.7 TT, 650 PS)",Christian Gebhardt,2021-01-30,2022,3.8,640.0,800.0,2.6,176800.0
+7.3,"Porsche 911 GT3 (991.2, facelift, 2017, N/A 4.0, 500 PS)",Christian Gebhardt,2017-04-28,2022,3.0,379.0,449.0,4.0,86020.0
+7.316666666666666,Chevrolet Corvette C6 ZR1 (2012),Jim Mero,2011-06-09,2023,5.5,625.0,881.0,2.6,72250.0
+7.333333333333333,BMW M2 CS,Jörg Weidinger [de],2025-04-11,2022,3.0,444.0,550.0,3.8,71905.75
+7.35,Ferrari 488 GTB,Horst von Saurma,2016-08,2022,3.9,661.0,761.0,3.0,283687.5
+7.35,Ferrari 488 GTB,Christian Gebhardt,2016-11,2022,3.9,661.0,761.0,3.0,283687.5
+7.366666666666666,Dodge Viper ACR (2009),Tom Coronel,2008-08-18,2017,8.4,645.0,813.0,3.3,107261.5
+7.366666666666666,Chevrolet Corvette C6 Z06 (2012),Jim Mero,2011-06-23,2023,5.5,625.0,881.0,2.6,72250.0
+7.383333333333334,"Mercedes-AMG GT 63 S 4MATIC+ (X290, 2021)",Demian Schaffert,2020-11-10,2021,4.0,630.0,900.0,3.1,137700.0
+7.383333333333334,"BMW M3 CS (G80, 2023, 3.0 TT, 550 PS)",Jörg Weidinger [de],2023-08-31,2022,3.0,444.0,550.0,3.8,71905.75
+7.4,"Porsche Panamera Turbo S E-Hybrid (976, 2024)",Lars Kern,2024-07-12,2021,4.0,690.0,870.0,3.2,161500.0
+7.4,Maserati MC12,Marc Basseng,2008-08,2021,3.0,621.0,729.0,2.9,178500.0
+7.416666666666667,Lamborghini Aventador LP700-4,Horst von Saurma,2012,2021,6.5,729.0,690.0,2.9,355002.5
+7.416666666666667,"Mercedes-AMG GT 63 S 4MATIC+ (X290, 2018)",Demian Schaffert,2018-10-15,2021,4.0,630.0,900.0,3.1,137700.0
+7.416666666666667,Mercedes-Benz SLS AMG Black Series,Markus Hofbauer,2013-08,2014,6.2,622.0,635.0,3.5,233750.0
+7.433333333333334,Chevrolet Corvette C6 ZR1 (2009),Jim Mero,2008-06-27,2023,5.5,625.0,881.0,2.6,72250.0
+7.45,Ferrari 812 Superfast,Christian Gebhardt,2018-06-20,2021,6.5,789.0,719.0,2.9,309170.5
+7.466666666666667,"BMW M4 Competition xDrive (G82, 2022, 3.0 TT, 510 PS)",Christian Gebhardt,2021-09-22,2021,3.0,503.0,649.0,3.9,64340.75
+7.483333333333333,"BMW M5 CS (F90, 2021)",Christian Gebhardt,2021-06-02,2022,3.0,444.0,550.0,3.8,71905.75
+7.483333333333333,Chevrolet Camaro ZL1 (2017),Drew Cattell,2016-10-24,2021,6.2,650.0,881.0,3.5,54990.75
+7.483333333333333,"Porsche Panamera Turbo S (971.2, 2020)",Lars Kern,2020-07-24,2022,4.0,620.0,819.0,2.9,159545.0
+7.483333333333333,Chevrolet Corvette (C8) (2020),Oliver Gavin,2019-07,2021,6.2,490.0,630.0,2.8,50915.0
+7.5,Mercedes-Benz SLS AMG GT (2012),,2012,2015,6.2,622.0,635.0,3.2,188700.0
+7.5,"BMW M4 Competition (G82, 2021, 3.0 TT, 510 PS)",Christian Gebhardt,2021-04-15,2021,3.0,503.0,649.0,3.9,64340.75
+7.516666666666667,"Porsche 911 GT2 (997, 2007)",Walter Röhrl,2007,2022,3.0,379.0,449.0,4.0,86020.0
+7.533333333333333,"Porsche 911 GT3 (991.1, pre-facelift, 2013, N/A 3.8, 475 PS)",Horst von Saurma,2013-11,2022,3.0,379.0,449.0,4.0,86020.0
+7.533333333333333,Alfa Romeo Giulia Quadrifoglio (2015),Fabio Francia,2016-09,2022,2.9,505.0,601.0,3.8,66300.0
+7.533333333333333,"Porsche Cayman GT4 (718, 2020, N/A 4.0, 420 PS)",Christian Gebhardt,2020,2022,4.0,414.0,419.0,3.8,85170.0
+7.533333333333333,"BMW M8 Coupe Competition (F92, 2020, 625 PS)",Christian Gebhardt,2020-06-09,2022,3.0,405.0,550.0,4.0,50910.75
+7.55,"Porsche 911 GT2 (997.1, pre-facelift, 2007, 3.6 TT, 530 PS)",Horst von Saurma,2007,2022,3.0,379.0,449.0,4.0,86020.0
+7.55,Porsche Taycan Turbo S (2023),Lars Kern,2022-04-11,2021,,750.0,1049.0,2.6,157250.0
+7.55,"BMW M2 (G87, 2023, 3.0 TT, 460 PS)",Jörg Weidinger [de],2023-08-30,2022,3.0,405.0,550.0,4.0,50065.0
+7.566666666666666,"Audi R8 GT (Mk1, Typ 42, 2010)",Horst von Saurma,2010-12,2022,5.2,562.0,550.0,3.2,121295.0
+7.566666666666666,"Porsche 911 Turbo S (991.1, pre-facelift, 2014, 3.8 TT, 560 PS)",Horst von Saurma,2014-02,2022,3.8,640.0,800.0,2.6,176800.0
+7.583333333333333,McLaren 650S Spider,Horst von Saurma,2015,2020,3.8,562.0,601.0,3.1,177480.0
+7.583333333333333,"Mercedes-AMG GT S (pre-facelift, 2015, 510 PS)",Horst von Saurma,2015,2021,4.0,630.0,900.0,3.1,137700.0
+7.583333333333333,Mercedes-Benz SLS AMG Black Series,Horst von Saurma,2013,2014,6.2,622.0,635.0,3.5,233750.0
+7.583333333333333,"Audi RS3 (Typ 8Y, 2021, 2.5 T, 400 PS)",Frank Stippler,2021-06-14,2022,2.5,394.0,500.0,3.9,48450.0
+7.583333333333333,Tesla Model S Plaid,Andreas Simonsen,2021-09-09,2021,,1020.0,1424.0,1.98,111511.5
+7.583333333333333,"BMW M5 Competition (F90, 2019, 625 PS)",Christian Gebhardt,2019-04-17,2022,4.4,617.0,750.0,3.1,87975.0
+7.6,"Mercedes-AMG GT S (pre-facelift, 2016, 510 PS)",Christian Gebhardt,2016,2021,4.0,630.0,900.0,3.1,137700.0
+7.616666666666667,Chevrolet Camaro Z/28 (2014),Adam Dean,2013-10,2021,6.2,650.0,881.0,3.5,54990.75
+7.616666666666667,"Audi RS3 (Typ 8Y, 2022, 2.5 T, 400 PS)",Christian Gebhardt,2022,2022,2.5,394.0,500.0,3.9,48450.0
+7.633333333333333,"Porsche 911 Turbo (997.1, pre-facelift, 2008, 3.6 TT, 480 PS)",,2008-09,2022,3.8,640.0,800.0,2.6,176800.0
+7.633333333333333,Chevrolet Corvette C6 ZR1,Horst von Saurma,2009-10,2023,5.5,625.0,881.0,2.6,72250.0
+7.633333333333333,"Porsche Panamera Turbo (971, 2017, 4.0 TT, 550 PS)",,2016,2022,4.0,620.0,819.0,3.1,148155.0
+7.633333333333333,BMW M5 (F90),Christian Gebhardt,2018-04-12,2022,4.4,600.0,750.0,3.2,87975.0
+7.666666666666667,Porsche 911 GT3 (997.2),Horst von Saurma,2009,2022,3.0,379.0,449.0,4.0,86020.0
+7.666666666666667,Mercedes-Benz SLS AMG,Horst von Saurma,2010,2015,6.2,622.0,635.0,3.2,188700.0
+7.666666666666667,"Audi R8 GT (Mk1, Typ 42, 2010)",Sascha Bert,2011-09,2022,5.2,562.0,550.0,3.2,121295.0
+7.683333333333334,"Porsche 911 Turbo S (997.2, facelift, 2010, 3.8 TT, 530 PS)",Sascha Bert,2010-11,2022,3.8,640.0,800.0,2.6,176800.0
+7.683333333333334,Chevrolet Camaro ZL1 (2012),Aaron Link,2011-10,2021,6.2,650.0,881.0,3.5,54990.75
+7.683333333333334,Chevrolet Corvette C6 ZR1,Sascha Bert,2009-08,2023,5.5,625.0,881.0,2.6,72250.0
+7.7,"BMW M4 CS (F82, 2017, 3.0 TT, 460 PS)",Christian Gebhardt,2017,2022,3.0,444.0,550.0,3.8,71905.75
+7.7,"Porsche 911 GT3 (997.1, pre-facelift, N/A 3.6, 415 PS)",Walter Röhrl,2006,2022,3.0,379.0,449.0,4.0,86020.0
+7.7,Porsche Taycan Turbo,Lars Kern,2019-08,2021,,750.0,1049.0,2.6,157250.0
+7.7,"Porsche Cayman GT4 (981, 2015, N/A 3.8, 385 PS)",Christian Gebhardt,2015-04,2022,4.0,414.0,419.0,3.8,85170.0
+7.7,"Alpine A110S (2022, 1.8 T, 300 PS)",Christian Gebhardt,2022-10,2021,1.8,288.0,320.0,4.4,60775.0
+7.7,"BMW M2 CS (F87, 2020)",Christian Gebhardt,2020-08-12,2022,3.0,444.0,550.0,3.8,71905.75
+7.716666666666667,Aston Martin V8 Vantage (2019),Christian Gebhardt,2019-08-14,2021,4.0,503.0,685.0,3.5,120785.0
+7.733333333333333,"Porsche 911 Turbo S (997.2, facelift, 2011, 3.8 TT, 530 PS)",Horst von Saurma,2011,2022,3.8,640.0,800.0,2.6,176800.0
+7.733333333333333,"Mercedes-AMG C63 S Coupe (W205, facelift, 2019, 4.0 BT, 510 PS)",Christian Gebhardt,2019,2021,4.0,503.0,700.0,3.7,66257.5
+7.733333333333333,Mercedes-Benz SLS AMG,Sascha Bert,2010-11,2015,6.2,622.0,635.0,3.2,188700.0
+7.75,Mercedes-Benz CLK63 AMG Black Series,Bernd Schneider,2007-05-01,2021,4.0,720.0,800.0,3.2,277142.5
+7.766666666666667,Mercedes-Benz C63 AMG Coupe Black Series,Horst von Saurma,2011,2021,4.0,720.0,800.0,3.2,277142.5
+7.766666666666667,"Porsche 911 GT2 (996.1, 2001, 462 PS)",Horst von Saurma,2001,2022,3.0,379.0,449.0,4.0,86020.0
+7.766666666666667,Porsche 718 Cayman S (982),Christian Gebhardt,2016-09,2022,2.0,300.0,380.0,4.5,51850.0
+7.783333333333333,"Porsche 911 Turbo (997.2, facelift, 2011, 3.8 TT, 500 PS)",Horst von Saurma,2011,2022,3.8,640.0,800.0,2.6,176800.0
+7.8,Porsche 911 GT3 (997.1),Horst von Saurma,2006,2022,3.0,379.0,449.0,4.0,86020.0
+7.8,"Audi TT RS (8S, 2017, 2.5 T, 400 PS)",Christian Gebhardt,2017-05-17,2021,2.5,394.0,480.0,3.6,57460.0
+7.816666666666666,"Chevrolet Corvette Z06 (C6, 2007, N/A 7.0, 512 PS)",Horst von Saurma,2007-06-22,2023,5.5,625.0,881.0,2.6,72250.0
+7.816666666666666,Mercedes-Benz GLC63s AMG 4MATIC+ (X253),Markus Hofbauer,2018-11-22,2021,4.0,503.0,700.0,3.8,57800.0
+7.833333333333333,"Aston Martin V8 Vantage GT8 (2017, N/A 4.7, 446 PS)",Christian Gebhardt,2017-02,2021,4.0,503.0,685.0,3.5,120785.0
+7.833333333333333,"BMW M3 CSL (E46, 2004)",Horst von Saurma,2003,2022,3.0,444.0,550.0,3.8,71905.75
+7.85,Mercedes-Benz SL65 AMG Black Series,Horst von Saurma,2009,2014,6.2,622.0,635.0,3.5,233750.0
+7.866666666666667,Aston Martin V12 Vantage S,Horst von Saurma,2014,2021,4.0,503.0,685.0,3.5,120785.0
+7.866666666666667,"BMW M4 (F82, 2014, 431 PS)",Horst von Saurma,2014,2022,3.0,503.0,649.0,3.8,61880.0
+7.866666666666667,"Ford GT (Mk1, 2006, 550 PS)",Horst von Saurma,2006,2022,3.5,660.0,746.0,3.0,425000.0
+7.866666666666667,"Porsche Boxster Spyder (981, 2015, N/A 3.8, 375 PS)",Christian Gebhardt,2015,2021,2.0,300.0,380.0,4.7,52700.0
+7.866666666666667,"Porsche Panamera Turbo S (970, pre-facelift, 2012, 4.8 TT, 550 PS)",Horst von Saurma,2012,2022,4.0,620.0,819.0,2.9,159545.0
+7.866666666666667,Toyota GR Supra (A90/J29),Christian Gebhardt,2019-08-22,2022,3.0,382.0,499.0,3.9,36626.5
+7.866666666666667,BMW M2 Competition (F87),Christian Gebhardt,2018-09-12,2022,3.0,405.0,550.0,4.0,50910.75
+7.9,"Mercedes-Benz CLK DTM AMG (W209, 2004, 582 PS)","Marcus Schurig (chief-editor of ""Sport Auto"" magazine)",2005-02,2021,4.0,523.0,670.0,3.8,100725.0
+7.9,Porsche 911 GT3 (996),Horst von Saurma,2003,2022,3.0,379.0,449.0,4.0,86020.0
+7.9,"Porsche 911 Turbo (997.1, pre-facelift, 2007, 3.6 TT, 480 PS)",Horst von Saurma,2007,2022,3.8,640.0,800.0,2.6,176800.0
+7.9,"BMW M5 Competition (F10, 2014, 575 PS)",Horst von Saurma,2014,2022,4.4,617.0,750.0,3.1,87975.0
+7.916666666666667,"Mercedes-Benz E63 AMG S 4MATIC (W212R, second facelift, 2013, B/T 5.5, 585 PS)",Horst von Saurma,2013-09,2022,4.0,503.0,700.0,3.9,65960.0
+7.916666666666667,BMW Z4 M40i (G29),Christian Gebhardt,2018-09-12,2022,3.0,382.0,500.0,3.9,54145.0
+7.933333333333334,Chevrolet Corvette Z06 (C5),Dave Hill,,2023,5.5,625.0,881.0,2.6,72250.0
+7.933333333333334,"Porsche 911 Turbo (996, 2000, 3.6 TT, 420 PS)",Horst von Saurma,2000,2022,3.8,640.0,800.0,2.6,176800.0
+7.933333333333334,"Porsche Panamera Turbo (970, pre-facelift, 2009, 4.8 TT, 500 PS)",Walter Röhrl,2009,2022,4.0,620.0,819.0,3.1,148155.0
+7.933333333333334,"Alpine A110 S (2020, 1.8 T, 292 PS)",Christian Gebhardt,2020,2021,1.8,288.0,320.0,4.4,60775.0
+7.933333333333334,"Mercedes-Benz CLK DTM AMG (W209, 2006, 582 PS)",Klaus Ludwig,2006-03,2021,4.0,523.0,670.0,3.8,100725.0
+7.966666666666667,BMW M2 (F87),Jörg Weidinger [de],2015-12,2022,3.0,405.0,550.0,4.0,50065.0
+7.966666666666667,"Ford Mustang Mach 1 (Mk6, 2021, N/A 5.0, 460 PS)",Christian Gebhardt,2021-11-03,2021,5.0,480.0,569.0,4.3,44977.75
+7.966666666666667,Audi RS4 Avant (B9),Christian Gebhardt,2018-07-12,2021,4.0,591.0,800.0,3.5,92650.0
+7.983333333333333,Audi RS5 Coupe (8T),Horst von Saurma,2012-06,2022,2.9,444.0,601.0,3.7,64982.5
+7.983333333333333,"Lotus Evora 400(2016, 3.5 S/C, 406 PS)",Christian Gebhardt,2016,2021,3.5,416.0,430.0,3.8,82407.5
+7.983333333333333,"Mercedes-Benz CLS63 AMG (W218, facelift, 2013)",Horst von Saurma,2013-07,2019,4.0,603.0,850.0,3.4,112200.0
+7.983333333333333,Porsche Cayenne Turbo S (958.2),,,2022,4.0,620.0,819.0,2.9,159545.0
+8.016666666666667,"BMW M2 (F87, 2016, 3.0 T, 370 PS)",Christian Gebhardt,2016,2022,3.0,405.0,550.0,4.0,50065.0
+8.033333333333333,Aston Martin DBS,Horst von Saurma,2009,2021,5.2,630.0,700.0,3.5,171270.75
+8.05,"Aston Martin V8 Vantage (Mk1, 2005, 385 PS)",Horst von Saurma,2005,2021,4.0,503.0,685.0,3.5,120785.0
+8.05,"Porsche 911 GT3 (996.1, pre-facelift, 1999, 360 PS)",Horst von Saurma,1999,2022,3.0,379.0,449.0,4.0,86020.0
+8.05,"Alpine A110 (2019, 1.8 T, 252 PS)",Christian Gebhardt,2019-05-15,2021,1.8,288.0,320.0,4.4,60775.0
+8.066666666666666,"Mercedes-Benz A45 AMG 4MATIC (W176, facelift)",Christian Gebhardt,2016-02,2021,2.0,382.0,480.0,4.0,42500.0
+8.066666666666666,"Porsche Boxster S (981.1, pre-facelift, 2012, N/A 3.4, 315 PS)",Horst von Saurma,2012,2021,2.0,300.0,380.0,4.7,52700.0
+8.066666666666666,Alfa Romeo 4C,Horst von Saurma,2013-09-12,2020,1.7,237.0,350.0,4.1,57077.5
+8.083333333333334,Audi RS6 Avant (C7),Horst von Saurma,2014,2021,4.0,591.0,800.0,3.5,92650.0
+8.083333333333334,BMW M3 (E92),Horst von Saurma,2007-12,2022,4.4,617.0,750.0,3.1,110500.0
+8.083333333333334,BMW M5 (F10),Horst von Saurma,2012,2022,4.4,600.0,750.0,3.2,87975.0
+8.083333333333334,Mercedes-Benz CLK63 Black Series,Horst von Saurma,2007,2021,4.0,720.0,800.0,3.2,277142.5
+8.083333333333334,"Porsche Cayman S (981.1, 2013, PDK, N/A 3.4, 325 PS)",Horst von Saurma,2013,2021,2.0,300.0,380.0,5.1,50065.0
+8.1,"Mercedes-Benz SL55 AMG (R230, 2003, 500 PS)",Horst von Saurma,2003,2015,6.2,622.0,635.0,3.2,188700.0
+8.1,Subaru WRX STi Spec-C (Prototype),Motoharu Kurosawa,2004,2021,2.5,310.0,393.0,4.6,32444.5
+8.116666666666667,"BMW M6 Coupe (E63, 2006, 507 PS)",Prinz Leopold von Bayern,2006-03,2021,3.0,473.0,550.0,3.8,61030.0
+8.133333333333333,Porsche 911 Turbo 3.3,Motoharu Kurosawa,1991,2022,3.8,640.0,800.0,2.6,176800.0
+8.15,Audi RS4 (B7),Horst von Saurma,2006,2022,4.0,591.0,800.0,3.5,99450.0
+8.15,"Audi TT RS (Mk2, 8J, 2010, 2.5 T, 340 PS)",Horst von Saurma,2010,2021,2.5,394.0,480.0,3.6,57460.0
+8.15,"BMW M6 Coupe (E63, 2005, 507 PS)",Horst von Saurma,2005,2021,3.0,473.0,550.0,3.8,61030.0
+8.166666666666666,Porsche Boxster S (987),,,2021,2.0,300.0,380.0,4.7,52700.0
+8.166666666666666,Porsche Cayman R (987.2),Horst von Saurma,2011,2021,2.0,300.0,380.0,5.1,50065.0
+8.166666666666666,"Mercedes-Benz A45 AMG 4MATIC (W176, pre-facelift)",Horst von Saurma,2014-03,2021,2.0,382.0,480.0,4.0,42500.0
+8.166666666666666,"Mercedes-Benz E63 AMG (W212, pre-facelift, 2010, N/A 6.2, 525 PS)",Horst von Saurma,2010,2021,4.0,503.0,700.0,3.8,57800.0
+8.2,"Mercedes-Benz SL55 AMG (R230, 2002, 476 PS)",Horst von Saurma,2002,2015,6.2,622.0,635.0,3.2,188700.0
+8.216666666666667,BMW M5 (E60),Horst von Saurma,2004,2022,4.4,600.0,750.0,3.2,87975.0
+8.216666666666667,Mercedes-Benz C63 AMG (W204),Horst von Saurma,2008,2021,4.0,503.0,700.0,3.8,57800.0
+8.233333333333333,"Mercedes-Benz SL65 AMG (R230, pre-facelift, 2005)",Horst von Saurma,2005,2015,6.2,622.0,635.0,3.2,188700.0
+8.233333333333333,Mercedes-Benz SLK55 AMG Black Series,Horst von Saurma,2007,2014,6.2,622.0,635.0,3.5,233750.0
+8.25,"Chevrolet Corvette (C6, 2005, N/A 6.0, 404 PS)",Horst von Saurma,2005,2021,6.2,490.0,630.0,2.8,50915.0
+8.266666666666667,"Aston Martin DB9 (2004, 456 PS)",Horst von Saurma,2004,2021,5.2,630.0,700.0,3.5,171270.75
+8.266666666666667,"Audi TT S Coupe (Mk3, FV/8S, 2015, 2.0 T, 310 PS)",Christian Gebhardt,2015,2021,2.5,394.0,480.0,3.6,57460.0
+8.266666666666667,"BMW M235i (F22, 2015, 3.0 T, 322 PS)",Christian Gebhardt,2015,2022,4.4,600.0,750.0,3.2,87975.0
+8.283333333333333,"Porsche Cayman S (987.2, facelift 2009)",Horst von Saurma,2009,2021,2.0,300.0,380.0,5.1,50065.0
+8.3,"BMW M135i (F20, 2012)",Horst von Saurma,2012,2022,4.4,600.0,750.0,3.2,87975.0
+8.3,"BMW Z8 (E52, 2000, 400 PS)",Horst von Saurma,2000,2022,4.4,617.0,750.0,3.1,110500.0
+8.3,"Ford Mustang GT (Mk6, S550, facelift, 2020, N/A 5.0, 450 PS)",Christian Gebhardt,2020,2022,5.0,460.0,569.0,4.3,33150.0
+8.3,"Porsche Boxster S (987.2, facelift 2009)",Horst von Saurma,2009,2021,2.0,300.0,380.0,4.7,52700.0
+8.333333333333334,"Audi RS3 Sportback (8P, 2011, 2.5 T, 340 PS)",Horst von Saurma,2011,2022,4.0,591.0,800.0,3.5,97788.25
+8.333333333333334,Audi RS6 (C5),Horst von Saurma,2002,2022,4.0,591.0,800.0,3.5,96050.0
+8.333333333333334,Chevrolet Camaro SS (2010),,2008,2021,6.2,455.0,617.0,4.1,36125.0
+8.366666666666667,BMW M3 (E46),Horst von Saurma,2000,2022,4.4,617.0,750.0,3.1,110500.0
+8.366666666666667,"BMW Z3 M Coupe (E36/8, 1998, 321 PS)",Horst von Saurma,1998,2021,3.0,473.0,550.0,3.8,61030.0
+8.366666666666667,Mercedes-Benz C55 AMG (W203),Horst von Saurma,2004,2021,4.0,503.0,700.0,3.8,57800.0
+8.383333333333333,Aston Martin DB7 GT,Horst von Saurma,2003,2021,5.2,630.0,700.0,3.5,171270.75
+8.383333333333333,"Porsche Boxster S (987.1, pre-facelift, 2006, 282 PS)",Horst von Saurma,2006,2021,2.0,300.0,380.0,4.7,52700.0
+8.4,Mercedes-Benz SLK55 AMG (R171),Horst von Saurma,2005,2015,6.2,622.0,635.0,3.2,188700.0
+8.416666666666666,Audi RS4 Avant (B5),Horst von Saurma,2000,2021,4.0,591.0,800.0,3.5,92650.0
+8.416666666666666,"Porsche Cayman S (987.1, pre-facelift, 2006, 295 PS)",Horst von Saurma,2006,2021,2.0,300.0,380.0,5.1,50065.0
+8.433333333333334,Audi S5,Horst von Saurma,2008,2022,3.0,349.0,500.0,4.4,44625.0
+8.433333333333334,Mercedes-Benz SLK32 AMG (R170),Horst von Saurma,2001,2015,6.2,622.0,635.0,3.2,188700.0
+8.433333333333334,Nissan 350Z,Horst von Saurma,2003,2021,3.7,332.0,366.0,5.0,25576.5
+8.466666666666667,BMW M5 (E39),Horst von Saurma,1999,2022,4.4,600.0,750.0,3.2,87975.0
+8.466666666666667,"Subaru WRX STi (Mk4, VA, facelift, 2015, 2.5 T, 300 PS)",Christian Gebhardt,2015,2021,2.5,310.0,393.0,4.6,32444.5
+8.483333333333333,Audi S4 Avant (B6),Horst von Saurma,2003,2021,4.0,591.0,800.0,3.5,92650.0
+8.483333333333333,"Audi TTS Coupé (8J, 2008, 272 PS)",Horst von Saurma,2008,2021,2.5,394.0,480.0,3.6,57460.0
+8.483333333333333,Mercedes-Benz CLK55 AMG (W208),Horst von Saurma,2000,2019,4.0,603.0,850.0,3.4,112200.0
+8.533333333333333,"Porsche Boxster S (986.1, pre-facelift, 1999, 252 PS)",Horst von Saurma,1999,2021,2.0,300.0,380.0,4.7,52700.0
+8.533333333333333,BMW Z3 M Roadster (E36/7),Horst von Saurma,1997,2022,2.0,255.0,400.0,5.2,42500.0
+8.6,"Porsche Boxster (986.2, facelift, 2003, 2.7, 228 PS)",Horst von Saurma,2003,2021,2.0,300.0,380.0,4.7,52700.0
+8.6,"Mercedes-Benz SL55 AMG (R230, second facelift, 2007, 517 PS)",Dierk Möller-Sonntag,2007,2015,6.2,622.0,635.0,3.2,188700.0
+8.616666666666667,Mercedes-Benz C32 AMG (W203),Horst von Saurma,2001,2021,4.0,503.0,700.0,3.8,57800.0
+8.633333333333333,"Mercedes-Benz SL500 (R230, pre-facelift, 2001, 306 PS)",Horst von Saurma,2001,2022,3.0,429.0,521.0,4.9,81812.5
+8.666666666666666,"Audi TT Coupe (Mk2, 8J, 2007 2.0 TFSI, 200 PS)",Horst von Saurma,2007,2021,2.5,394.0,480.0,3.6,57460.0
+8.666666666666666,Chevrolet Corvette C5,Horst von Saurma,1997,2021,6.2,490.0,630.0,2.8,50915.0
+8.666666666666666,"Bentley Continental GT (Mk1, 2006, 560 PS)",Tom Kristensen,2006-03,2021,6.0,626.0,900.0,3.6,191250.0
+8.683333333333334,Aston Martin DB7 Vantage,Horst von Saurma,1999,2021,4.0,503.0,685.0,3.5,120785.0
+8.683333333333334,"Audi S1 (8X, 2014, 231 PS)",Horst von Saurma,2014,2022,3.0,349.0,500.0,4.4,44625.0
+8.683333333333334,"Audi S3 (8L, 1999, 210 PS)",Horst von Saurma,1999,2022,2.5,394.0,500.0,3.9,48450.0
+8.7,"Audi S4 (B5, 1998, 265 PS)",Horst von Saurma,1998,2022,3.0,349.0,500.0,4.4,44625.0
+8.833333333333334,BMW M3 (E30),Horst von Saurma,2010,2022,4.4,617.0,750.0,3.1,110500.0
+8.833333333333334,Tesla Model S P85D,,2015,2021,,1020.0,1424.0,1.98,111511.5
+8.85,Mercedes-Benz C43 AMG (W202),Horst von Saurma,1998,2021,4.0,503.0,700.0,3.8,57800.0
+8.866666666666667,Mercedes-Benz CLK430 Coupe (W208),Horst von Saurma,1998,2021,3.0,385.0,521.0,4.5,50915.0
+8.9,"Porsche Boxster (986.1, pre-facelift, 1997, 2.5, 204 PS)",Horst von Saurma,1997,2021,2.0,300.0,380.0,4.7,52700.0
+11.416666666666666,Mercedes-Benz G55 AMG (W463),Wolfgang Kaufmann,2007-06-29,2021,4.0,523.0,670.0,3.8,100725.0

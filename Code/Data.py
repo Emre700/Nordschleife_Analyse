@@ -23,6 +23,17 @@ cars['Price (EUR)'] = (
     cars['Price (EUR)'].str.replace(',', '', regex = False).astype(float)
 )
 
+## Cleaning the 'Time' column in the laps dataframe
+laps["Time"] = laps["Time"].str.replace(".", ":", n = 1, regex = False)
+
+## Splitting the 'Time' column into minutes and seconds, converting them to numeric, and then calculating the total time in minutes
+parts = laps["Time"].str.replace(".", ":", n=1, regex=False).str.split(":", expand=True)
+
+laps["Time"] = (
+    pd.to_numeric(parts[0]) +
+    pd.to_numeric(parts[1]) / 60
+)
+
 ## Using a loop to convert important columns to numeric, coercing errors to NaN
 numeric_columns = ['HP', '0-100', 'Engine Size (L)', 'Torque (Nm)']
 
@@ -100,5 +111,7 @@ nls = nls.drop(columns = [
 ## Rounding the 'Torque (Nm)' and 'HP' columns to 0 decimal places for better readability
 nls[['Torque (Nm)', 'HP']] = nls[['Torque (Nm)', 'HP']].round(0)
 
+
 ## Saving the cleaned and merged dataframe to a new CSV file in the 'data' folder
 nls.to_csv("Data/nls.csv", index = False)
+
