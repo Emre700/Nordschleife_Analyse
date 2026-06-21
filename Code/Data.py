@@ -34,6 +34,7 @@ laps["Time"] = (
     pd.to_numeric(parts[1]) / 60
 )
 
+
 ## Using a loop to convert important columns to numeric, coercing errors to NaN
 numeric_columns = ['HP', '0-100', 'Engine Size (L)', 'Torque (Nm)']
 
@@ -111,6 +112,8 @@ nls = nls.drop(columns = [
 ## Rounding the 'Torque (Nm)' and 'HP' columns to 0 decimal places for better readability
 nls[['Torque (Nm)', 'HP']] = nls[['Torque (Nm)', 'HP']].round(0)
 
+
+#print(nls.dtypes)
 
 ## Saving the cleaned and merged dataframe to a new CSV file in the 'data' folder
 nls.to_csv("Data/nls.csv", index = False)
