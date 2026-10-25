@@ -1,0 +1,58 @@
+from sklearn.ensemble import LinearRegression, RandomForestRegressor
+
+
+
+
+# Feature Matrix X with features 'HP', 'Torque (Nm)', 'Engine Size (L)'
+X = nls[['HP', 'Torque (Nm)', 'Engine Size (L)']]
+
+# Target variable y with 'Time'
+y = nls['Time']
+
+X.isna().sum()
+# Problem: Missing values in Engine Size (L)
+# We fill the missing values with the median of the column
+X = X.fillna(X['Engine Size (L)'].median())
+X.isna().sum()
+# now there are no missing values in the feature matrix X
+
+
+X.shape[0] == y.shape[0]
+# X and y have the same number of rows
+
+# Now we can split the data into training and testing sets
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 42)
+#print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
+
+# Now we can train a linear regression model on the training data
+from sklearn.linear_model import LinearRegression
+model = LinearRegression().fit(X_train, y_train)
+
+#print(model.coef_, model.intercept_)
+# Example of an Interpretation of the coefficients:
+# The coefficient for HP is -0.00132, which means that for every 1 unit
+# increase in HP, the lap time decreases by 0.002 minutes, c.p..
+
+# Now we can evaluate the model on the test data
+y_pred = model.predict(X_test)
+#print(y_pred)
+
+# We use MAE, RMSE, and R^2 to evaluate the model performance
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+mae = mean_absolute_error(y_test, y_pred)
+rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+r2 = r2_score(y_test, y_pred)
+print(f'MAE: {mae:.4f}, RMSE: {rmse:.4f}, R^2: {r2:.4f}')
+# Bad performance, we can try dummy regression to see if the model is better than a dummy model
+
+from sklearn.dummy import DummyRegressor
+dummy_model = DummyRegressor(strategy = 'mean').fit(X_train, y_train)
+
+y_dummy_pred = dummy_model.predict(X_test)
+mae_dummy = mean_absolute_error(y_test, y_dummy_pred)
+rmse_dummy = np.sqrt(mean_squared_error(y_test, y_dummy_pred))
+r2_dummy = r2_score(y_test, y_dummy_pred)
+print(f'Dummy Model - MAE: {mae_dummy:.4f}, RMSE: {rmse_dummy:.4f}, R^2: {r2_dummy:.4f}')
+
+# Lets try a more complex model, like Random Forest Regressor
