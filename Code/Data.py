@@ -8,8 +8,8 @@ laps = pd.read_csv('Data/laps.csv', sep = ';')
 cars = pd.read_csv('Data/Sport car price (1).csv')
 
 ## Cleaning the data
-## Deleting the 'Unnamed: 0', 'Length[a]' and 'Notes' column
-laps = laps.drop(columns = ['Unnamed: 0', 'Length[a]', 'Notes'], errors = 'ignore')
+## Deleting the 'Unnamed: 0', and 'Notes' column
+laps = laps.drop(columns = ['Unnamed: 0', 'Notes'], errors = 'ignore')
 
 ## Renaming the columns for better readability
 cars = cars.rename(columns = {'Horsepower': 'HP',
@@ -101,6 +101,11 @@ nls = laps.merge(
 ## Renaming the 'Vehicle_x' column to 'Vehicle'
 nls = nls.rename(columns={"Vehicle_x": "Vehicle"})
 
+## removing the 'm' from the 'Length[a]' column and changing the comma to a dot, then converting it to float
+nls['Lap Length (km)'] = nls['Length[a]'].str.replace('m', '', regex = False).str.replace(',', '.').astype(float)
+
+nls = nls.drop(columns = ['Length[a]'])
+
 ## Deleting the unnecessary columns
 nls = nls.drop(columns = [
     "Vehicle_y",
@@ -118,3 +123,4 @@ nls[['Torque (Nm)', 'HP']] = nls[['Torque (Nm)', 'HP']].round(0)
 ## Saving the cleaned and merged dataframe to a new CSV file in the 'data' folder
 nls.to_csv("Data/nls.csv", index = False)
 
+print(nls.shape)

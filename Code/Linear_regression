@@ -1,7 +1,6 @@
-from sklearn.ensemble import LinearRegression, RandomForestRegressor
-
-
-
+import pandas as pd
+import numpy as np
+nls = pd.read_csv("Data/nls.csv")
 
 # Feature Matrix X with features 'HP', 'Torque (Nm)', 'Engine Size (L)'
 X = nls[['HP', 'Torque (Nm)', 'Engine Size (L)']]
@@ -32,7 +31,7 @@ model = LinearRegression().fit(X_train, y_train)
 #print(model.coef_, model.intercept_)
 # Example of an Interpretation of the coefficients:
 # The coefficient for HP is -0.00132, which means that for every 1 unit
-# increase in HP, the lap time decreases by 0.002 minutes, c.p..
+# increase in HP, the lap time decreases by 0.00132 minutes, c.p..
 
 # Now we can evaluate the model on the test data
 y_pred = model.predict(X_test)
@@ -54,5 +53,3 @@ mae_dummy = mean_absolute_error(y_test, y_dummy_pred)
 rmse_dummy = np.sqrt(mean_squared_error(y_test, y_dummy_pred))
 r2_dummy = r2_score(y_test, y_dummy_pred)
 print(f'Dummy Model - MAE: {mae_dummy:.4f}, RMSE: {rmse_dummy:.4f}, R^2: {r2_dummy:.4f}')
-
-# Lets try a more complex model, like Random Forest Regressor
