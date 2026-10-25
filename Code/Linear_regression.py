@@ -53,3 +53,4 @@ mae_dummy = mean_absolute_error(y_test, y_dummy_pred)
 rmse_dummy = np.sqrt(mean_squared_error(y_test, y_dummy_pred))
 r2_dummy = r2_score(y_test, y_dummy_pred)
 print(f'Dummy Model - MAE: {mae_dummy:.4f}, RMSE: {rmse_dummy:.4f}, R^2: {r2_dummy:.4f}')
+
