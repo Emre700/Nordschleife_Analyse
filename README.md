@@ -57,8 +57,4 @@ Nordschleife_Analyse/
 │   └──Nordschleife Analysis.ipynb
 └──README.md
 
-## Notebook
-
-A polished analysis notebook is (soon) available on Kaggle:
-
 
