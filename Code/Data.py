@@ -27,7 +27,7 @@ cars['Price (EUR)'] = (
 laps["Time"] = laps["Time"].str.replace(".", ":", n = 1, regex = False)
 
 ## Splitting the 'Time' column into minutes and seconds, converting them to numeric, and then calculating the total time in minutes
-parts = laps["Time"].str.replace(".", ":", n=1, regex=False).str.split(":", expand=True)
+parts = laps["Time"].str.replace(".", ":", n = 1 , regex = False).str.split(":", expand = True)
 
 laps["Time"] = (
     pd.to_numeric(parts[0]) +
@@ -71,7 +71,7 @@ laps["Vehicle_clean"] = laps["Vehicle"].apply(clean_vehicle_name)
 cars["Vehicle_clean"] = cars["Vehicle"].apply(clean_vehicle_name)
 
 ## Removing duplicates from both dataframes based on the new 'Vehicle_clean' column
-cars = cars.drop_duplicates(subset = "Vehicle_clean", keep= "first")
+cars = cars.drop_duplicates(subset = "Vehicle_clean", keep = "first")
 
 ## Function to perform fuzzy matching and return the best match if the score is above a certain threshold
 car_names = cars["Vehicle_clean"].unique()
